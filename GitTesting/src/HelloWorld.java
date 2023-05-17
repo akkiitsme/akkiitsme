@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("hello iM ranjan");
 		System.out.println("Hello Im akshay");
 		System.out.println("Hello IM pranjul");
+		System.out.println("hello im vishal");
+		System.out.println("Hello im pvhcjhg");
 	}
 
 }
