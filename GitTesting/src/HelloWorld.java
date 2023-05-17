@@ -5,13 +5,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		//holla ima talle talle who
-<<<<<<< HEAD
-		
+
 		System.out.println("hello iM ranjan");
 		System.out.println("Hello Im akshay");
-=======
-
->>>>>>> refs/remotes/origin/master
 	}
 
 }
