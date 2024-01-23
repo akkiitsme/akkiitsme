@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/Theakkiitsme" target="blank"><img src="https://img.shields.io/twitter/follow/theakkiitsme?logo=twitter&style=for-the-badge" alt="https://twitter.com/theakkiitsme" /></a> </p>
 
-- 🔭 I’m currently working on [Internet Research Bureau Pvt Ltd](https://railway.app/)
+- 🔭 I’m currently working on [Internet Research Bureau Pvt Ltd](https://www.irbureau.com/)
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on [Artificial Intelligence](https://railway.app/)
+- 👯 I’m looking to collaborate on AI Tools
 
-- 🤝 I’m looking for help with [Artificial Intelligence](https://railway.app/)
+- 🤝 I’m looking for help with [Devops](https://railway.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/akkiitsme](https://github.com/akkiitsme)
 
-- 📝 I regularly write articles on [https://www.akshay-blog.com](https://www.akshay-blog.com)
+- 📝 I regularly write code on [HackerRank](https://www.hackerrank.com/akshaysingh069)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **akshaysingh069@gmail.com**
 
-- 📄 Know about my experiences [https://www.akshay-resume.com](https://www.akshay-resume.com)
+- 📄 Know about my experiences - Check My Repo
 
-- ⚡ Fun fact **Why we should remember anything when we have storage devices**
+- ⚡ Fun fact **Don't decrease the goal increase the effort**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
